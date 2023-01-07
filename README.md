@@ -15,7 +15,6 @@ P2P port	12180
 Block reward	6 coins
 Block halving	1.000.000 blocks
 Coin supply	13.000.000 coins
-Premine amount	1.000.000 coins
 Coinbase maturity	5 ( + 1 default confirmation) blocks
 Target spacing	5 minutes
 Target timespan	10 minutes
